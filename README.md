@@ -1,8 +1,8 @@
 # ALDA
 Algorithms and Datastructures
 The repository contains code from various weekly tasks in the ALDA course at DSV in Stockholm, the code is written between 
-21 Jan - 18 March 2019.
-
+21 Jan - 18 March 2019. This was done in learning purpose therefor the code is not guaranteed to be without mistakes and
+it is worth noting that these algorithms are not optimized in any way shape or form.
 
 Alda Queue
 A simple queue with the basic functions that a queue is supposed to have.
