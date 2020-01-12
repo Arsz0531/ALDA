@@ -1,8 +1,9 @@
 # ALDA
 Algorithms and Datastructures
 The repository contains code from various weekly tasks in the ALDA course at DSV in Stockholm, the code is written between 
-21 Jan - 18 March 2019.
+21 Jan - 18 March 2019. The code was developed for learning purposes thus probably contains errors and is not fully optimized.
 
+Some of this code is prewritten and the Author is credited. All code has passed various Junit tests but they are not included in this repo.
 
 Alda Queue
 
